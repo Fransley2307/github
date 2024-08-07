@@ -31,4 +31,4 @@ commit:
 22-) Como adicionar Reviewers em seu repositório:
 
 
-![](head-gif.gif)
+![]()
