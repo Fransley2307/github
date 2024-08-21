@@ -8,6 +8,7 @@
 #### git pull -> significa dois comandos basicamente, git fetch e git merge.
 #### git log -> acessa o historico dos commits
 
+### git merge -> pega a alteração de uma e manda para a outra.
 
 
 
